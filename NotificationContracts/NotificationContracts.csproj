@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<PackageId>NotificationContracts</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>KamilAliev</Authors>
+		<Company>KA</Company>
+		<Description>Контракты событий для NotificationService</Description>
+		<Version>1.0.2</Version>
+	</PropertyGroup>
+
+</Project>
